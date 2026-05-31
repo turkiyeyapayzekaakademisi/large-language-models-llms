@@ -1,0 +1,13 @@
+Transformer Playground: https://poloclub.github.io/transformer-explainer/
+
+OpenAI API Price: https://developers.openai.com/api/docs/pricing#fine-tuning
+
+Gemini API Price: https://ai.google.dev/gemini-api/docs/pricing#gemini-2.5-flash-lite
+
+Google AI Studio: https://aistudio.google.com/api-keys
+
+Ollama: https://ollama.com/
+
+Hugging Face: https://huggingface.co/google
+
+Vast ai: https://vast.ai/
